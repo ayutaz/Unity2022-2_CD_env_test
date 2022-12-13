@@ -1,7 +1,7 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# Unity 2022.2.0f1をGitHub Actions上でGameCIを使ってCD環境を構築サンプルプロジェクト
 
 # Demo
 
 # requirements
-* Unity 2021.3.4f1
+
+* Unity 2022.2.0f1
